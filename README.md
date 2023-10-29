@@ -43,4 +43,5 @@ Contribuindo
 Fique à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Crie uma pull request e nós ficaremos felizes em analisá-la!
 
 Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Guilherme-Rogerio/desafio-backend-modulo-02-sistema-bancario-dbe-t03/blob/main/LICENSE)
